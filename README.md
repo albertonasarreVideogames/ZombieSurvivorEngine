@@ -125,6 +125,8 @@ Assets/
 ```
 ## 🛠️ How to Read the code
 
+In the **main class**, you’ll find where the project starts executing and where the main loop is defined. The `Game` class contains the details for rendering and updating.
+
 The project follows a **Stages Pattern**. You can find all game states (such as menus and gameplay) inside the `Stages` folder — the most important one being `PlayStage`.
 
 The engine is based on the classic game loop:  
@@ -132,7 +134,7 @@ The engine is based on the classic game loop:
 and each stage (or game state) implements its own `update()` and `render()` methods.  
 The `GameStage` class acts as a base for all these stages.
 
-In the `Scene` folder, you'll find all screen-rendered elements.  
+In the `Scene` folder, you'll find all screen-rendered elements, and the Entity system.  
 We're using the **Composite Pattern** with `Entities`: the `EntityManager` maintains a root entity, and each entity can have **parents and children**, allowing for hierarchical scene structure.
 
 ⚙️ The code handles everything manually — from **mesh loading** to all **OpenGL configurations** — without external tools or game engines. This makes the system highly transparent, but sometimes difficult to read.  
