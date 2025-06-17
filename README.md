@@ -100,7 +100,7 @@ Inside the game pulse tab to enter on the edit mode
 
 ### 🎮 Option 2 — Download a Playable Build
 
-👉 [Play the game on Itch.io](https://albertonasare.itch.io/zombieSurvivorProjects)
+👉 [Play the game on Itch.io](https://albertonasare.itch.io/zombiesurvivorsengine)
 
 ---
 
