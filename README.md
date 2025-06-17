@@ -70,6 +70,25 @@ As part of my transition from backend software engineering to professional game 
 
 ---
 
+## 🎮 How to edit maps
+
+Inside the game pulse tab to enter on the edit mode
+
+| Action           | Key/Input         |
+|------------------|--------------------|
+| Enter on edit mode    | Tab           |
+| Create Tree           | Z             |
+| Create Fence          | Right Mouse   |
+| Create vampire        | X             |
+| Create stackLarge     | C             |
+| Create rockLarge      | V             |
+| Create rockSmall      | B             |
+| Create rockWide       | N             |
+| Create gravestone     | M             |
+| Save map to File      | P             |
+
+---
+
 ## ▶️ How to Play
 
 ### 🛠 Option 1 — Compile the Project
