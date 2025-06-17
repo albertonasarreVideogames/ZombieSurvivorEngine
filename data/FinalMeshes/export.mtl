@@ -1,0 +1,20 @@
+newmtl mat_1
+ Kd 0.2447 0.5437 0.2970
+newmtl mat_2
+ Kd 1.0000 0.6824 0.4353
+newmtl mat_3
+ Kd 0.2450 0.5406 0.2967
+newmtl mat_4
+ Kd 1.0000 0.6824 0.4353
+newmtl mat_5
+ Kd 0.2447 0.5437 0.2970
+newmtl mat_6
+ Kd 1.0000 0.6824 0.4353
+newmtl mat_7
+ Kd 0.2447 0.5437 0.2970
+newmtl mat_8
+ Kd 1.0000 0.6824 0.4353
+newmtl mat_9
+ Kd 1.0000 0.6824 0.4353
+newmtl mat_10
+ Kd 0.3529 0.7686 0.7137

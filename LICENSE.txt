@@ -1,0 +1,20 @@
+Copyright (c) 2024 Alberto Nasarre. All rights reserved.
+
+This project is provided for educational and non-commercial purposes only.
+
+You are allowed to:
+- View, clone, and study the source code.
+- Use ideas or patterns for personal learning.
+
+You are NOT allowed to:
+- Copy, redistribute, or publish this project in full or in part.
+- Use any part of this project for commercial purposes.
+- Upload or distribute this game on any platform (e.g., Steam, itch.io, etc.).
+- Claim authorship or ownership of this project.
+
+By accessing this repository, you acknowledge that all assets (code, art, music, levels, etc.) are the original work of Alberto Nasarre and are protected under copyright law.
+
+Violation of these terms may result in legal action.
+
+For commercial use or licensing inquiries, please contact me at: [albertonasarrecancer@gmail.com]
+
