@@ -10,7 +10,7 @@ This is a personal game development project aimed at building a complete **custo
 
 As part of my transition from backend software engineering to professional game development, this project showcases both gameplay and a strong technical foundation.
 
-🎥 [Check out more on my portfolio](https://albertonasarre.dev/game-2/)
+🎥 [Check out more on my portfolio](https://albertonasarre.dev/zombiessurvivor/)
 
 ---
 
@@ -141,5 +141,5 @@ We're using the **Composite Pattern** with `Entities`: the `EntityManager` maint
 However, it allows for easy future expansion, so if the project grows, this architecture will scale better over time.
 
 
-🔗 [See this project on my portfolio](https://albertonasarre.dev/game-2/)
+🔗 [See this project on my portfolio](https://albertonasarre.dev/zombiessurvivor/)
 
